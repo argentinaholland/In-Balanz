@@ -56,6 +56,12 @@
 		96C6AC5F15CC77D4005A7E0B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96C6AC5D15CC77D4005A7E0B /* InfoPlist.strings */; };
 		96C6AC6115CC77D4005A7E0B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C6AC6015CC77D4005A7E0B /* main.m */; };
 		96C6AC6515CC77D4005A7E0B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C6AC6415CC77D4005A7E0B /* AppDelegate.m */; };
+		A70135FA15CFFD76003228D4 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A70135F915CFFD75003228D4 /* Default.png */; };
+		A70135FC15CFFD86003228D4 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A70135FB15CFFD86003228D4 /* Default@2x.png */; };
+		A70135FE15CFFEBD003228D4 /* Appicon114114.png in Resources */ = {isa = PBXBuildFile; fileRef = A70135FD15CFFEBC003228D4 /* Appicon114114.png */; };
+		A701360015CFFED0003228D4 /* Appicon114114.png in Resources */ = {isa = PBXBuildFile; fileRef = A70135FF15CFFED0003228D4 /* Appicon114114.png */; };
+		A701360215CFFF02003228D4 /* Appicon5757.png in Resources */ = {isa = PBXBuildFile; fileRef = A701360115CFFF01003228D4 /* Appicon5757.png */; };
+		A701360415CFFF08003228D4 /* Appicon5757.png in Resources */ = {isa = PBXBuildFile; fileRef = A701360315CFFF07003228D4 /* Appicon5757.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -112,16 +118,22 @@
 		965D8AA015CCE76600D517A6 /* CommonVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CommonVC.h; path = ViewControllers/CommonVC.h; sourceTree = "<group>"; };
 		965D8AA115CCE76600D517A6 /* CommonVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CommonVC.m; path = ViewControllers/CommonVC.m; sourceTree = "<group>"; };
 		96BC7BF415CF744200162136 /* questions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = questions.plist; path = Resources/questions.plist; sourceTree = "<group>"; };
-		96C6AC5015CC77D3005A7E0B /* In-Balanz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "In-Balanz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		96C6AC5015CC77D3005A7E0B /* AdemInBalanz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdemInBalanz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96C6AC5415CC77D4005A7E0B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		96C6AC5615CC77D4005A7E0B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		96C6AC5815CC77D4005A7E0B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		96C6AC5C15CC77D4005A7E0B /* In-Balanz-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "In-Balanz-Info.plist"; sourceTree = "<group>"; };
+		96C6AC5C15CC77D4005A7E0B /* AdemInBalanz-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AdemInBalanz-Info.plist"; sourceTree = "<group>"; };
 		96C6AC5E15CC77D4005A7E0B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		96C6AC6015CC77D4005A7E0B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		96C6AC6215CC77D4005A7E0B /* In-Balanz-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "In-Balanz-Prefix.pch"; sourceTree = "<group>"; };
+		96C6AC6215CC77D4005A7E0B /* AdemInBalanz-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AdemInBalanz-Prefix.pch"; sourceTree = "<group>"; };
 		96C6AC6315CC77D4005A7E0B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		96C6AC6415CC77D4005A7E0B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A70135F915CFFD75003228D4 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		A70135FB15CFFD86003228D4 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		A70135FD15CFFEBC003228D4 /* Appicon114114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon114114.png; sourceTree = "<group>"; };
+		A70135FF15CFFED0003228D4 /* Appicon114114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon114114.png; sourceTree = "<group>"; };
+		A701360115CFFF01003228D4 /* Appicon5757.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon5757.png; sourceTree = "<group>"; };
+		A701360315CFFF07003228D4 /* Appicon5757.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon5757.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +189,8 @@
 			children = (
 				965D8A7B15CCDA2200D517A6 /* button.normal.png */,
 				965D8A7C15CCDA2200D517A6 /* button.normal@2x.png */,
+				A701360115CFFF01003228D4 /* Appicon5757.png */,
+				A70135FD15CFFEBC003228D4 /* Appicon114114.png */,
 				965D8A7D15CCDA2200D517A6 /* button.pressed.png */,
 				965D8A7E15CCDA2200D517A6 /* button.pressed@2x.png */,
 				965D8A7F15CCDA2200D517A6 /* mainButton.pressed@2x.png */,
@@ -206,6 +220,10 @@
 		96C6AC4515CC77D3005A7E0B = {
 			isa = PBXGroup;
 			children = (
+				A701360315CFFF07003228D4 /* Appicon5757.png */,
+				A70135FF15CFFED0003228D4 /* Appicon114114.png */,
+				A70135FB15CFFD86003228D4 /* Default@2x.png */,
+				A70135F915CFFD75003228D4 /* Default.png */,
 				96C6AC5A15CC77D4005A7E0B /* In-Balanz */,
 				96C6AC5315CC77D4005A7E0B /* Frameworks */,
 				96C6AC5115CC77D3005A7E0B /* Products */,
@@ -215,7 +233,7 @@
 		96C6AC5115CC77D3005A7E0B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				96C6AC5015CC77D3005A7E0B /* In-Balanz.app */,
+				96C6AC5015CC77D3005A7E0B /* AdemInBalanz.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -248,10 +266,10 @@
 		96C6AC5B15CC77D4005A7E0B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				96C6AC5C15CC77D4005A7E0B /* In-Balanz-Info.plist */,
+				96C6AC5C15CC77D4005A7E0B /* AdemInBalanz-Info.plist */,
 				96C6AC5D15CC77D4005A7E0B /* InfoPlist.strings */,
 				96C6AC6015CC77D4005A7E0B /* main.m */,
-				96C6AC6215CC77D4005A7E0B /* In-Balanz-Prefix.pch */,
+				96C6AC6215CC77D4005A7E0B /* AdemInBalanz-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -259,9 +277,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		96C6AC4F15CC77D3005A7E0B /* In-Balanz */ = {
+		96C6AC4F15CC77D3005A7E0B /* AdemInBalanz */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 96C6AC6E15CC77D4005A7E0B /* Build configuration list for PBXNativeTarget "In-Balanz" */;
+			buildConfigurationList = 96C6AC6E15CC77D4005A7E0B /* Build configuration list for PBXNativeTarget "AdemInBalanz" */;
 			buildPhases = (
 				96C6AC4C15CC77D3005A7E0B /* Sources */,
 				96C6AC4D15CC77D3005A7E0B /* Frameworks */,
@@ -271,9 +289,9 @@
 			);
 			dependencies = (
 			);
-			name = "In-Balanz";
+			name = AdemInBalanz;
 			productName = "In-Balanz";
-			productReference = 96C6AC5015CC77D3005A7E0B /* In-Balanz.app */;
+			productReference = 96C6AC5015CC77D3005A7E0B /* AdemInBalanz.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -285,7 +303,7 @@
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "Burnt Soap";
 			};
-			buildConfigurationList = 96C6AC4A15CC77D3005A7E0B /* Build configuration list for PBXProject "In-Balanz" */;
+			buildConfigurationList = 96C6AC4A15CC77D3005A7E0B /* Build configuration list for PBXProject "AdemInBalanz" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -297,7 +315,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				96C6AC4F15CC77D3005A7E0B /* In-Balanz */,
+				96C6AC4F15CC77D3005A7E0B /* AdemInBalanz */,
 			);
 		};
 /* End PBXProject section */
@@ -340,6 +358,12 @@
 				96258E5E15CFAFEF000A5331 /* QuestionnaireDoneVC.xib in Resources */,
 				96258E6615CFC703000A5331 /* AboutUsDetailVC.xib in Resources */,
 				96258E6B15CFD4B8000A5331 /* ExercisesDetailVC.xib in Resources */,
+				A70135FA15CFFD76003228D4 /* Default.png in Resources */,
+				A70135FC15CFFD86003228D4 /* Default@2x.png in Resources */,
+				A70135FE15CFFEBD003228D4 /* Appicon114114.png in Resources */,
+				A701360015CFFED0003228D4 /* Appicon114114.png in Resources */,
+				A701360215CFFF02003228D4 /* Appicon5757.png in Resources */,
+				A701360415CFFF08003228D4 /* Appicon5757.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,7 +408,8 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -399,6 +424,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -408,7 +435,8 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
@@ -417,6 +445,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -426,9 +456,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "In-Balanz/In-Balanz-Prefix.pch";
-				INFOPLIST_FILE = "In-Balanz/In-Balanz-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "In-Balanz/AdemInBalanz-Prefix.pch";
+				INFOPLIST_FILE = "In-Balanz/AdemInBalanz-Info.plist";
+				PRODUCT_NAME = AdemInBalanz;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -437,9 +467,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "In-Balanz/In-Balanz-Prefix.pch";
-				INFOPLIST_FILE = "In-Balanz/In-Balanz-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "In-Balanz/AdemInBalanz-Prefix.pch";
+				INFOPLIST_FILE = "In-Balanz/AdemInBalanz-Info.plist";
+				PRODUCT_NAME = AdemInBalanz;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -447,7 +477,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		96C6AC4A15CC77D3005A7E0B /* Build configuration list for PBXProject "In-Balanz" */ = {
+		96C6AC4A15CC77D3005A7E0B /* Build configuration list for PBXProject "AdemInBalanz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				96C6AC6C15CC77D4005A7E0B /* Debug */,
@@ -456,7 +486,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		96C6AC6E15CC77D4005A7E0B /* Build configuration list for PBXNativeTarget "In-Balanz" */ = {
+		96C6AC6E15CC77D4005A7E0B /* Build configuration list for PBXNativeTarget "AdemInBalanz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				96C6AC6F15CC77D4005A7E0B /* Debug */,
