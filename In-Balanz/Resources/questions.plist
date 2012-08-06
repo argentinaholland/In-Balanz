@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>vraag een</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>vraag twee</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>vraag drie</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag vier</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag vijf</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag zes</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag zeven</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag acht</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag negen</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>name</key>
+		<string>vraag tien</string>
+		<key>answer</key>
+		<false/>
+	</dict>
+</array>
+</plist>
