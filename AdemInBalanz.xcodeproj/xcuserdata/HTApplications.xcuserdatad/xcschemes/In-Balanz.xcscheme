@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C6AC4F15CC77D3005A7E0B"
-               BuildableName = "In-Balanz.app"
+               BuildableName = "AdemInBalanz.app"
                BlueprintName = "AdemInBalanz"
                ReferencedContainer = "container:AdemInBalanz.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C6AC4F15CC77D3005A7E0B"
-            BuildableName = "In-Balanz.app"
+            BuildableName = "AdemInBalanz.app"
             BlueprintName = "AdemInBalanz"
             ReferencedContainer = "container:AdemInBalanz.xcodeproj">
          </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C6AC4F15CC77D3005A7E0B"
-            BuildableName = "In-Balanz.app"
+            BuildableName = "AdemInBalanz.app"
             BlueprintName = "AdemInBalanz"
             ReferencedContainer = "container:AdemInBalanz.xcodeproj">
          </BuildableReference>
@@ -69,7 +69,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C6AC4F15CC77D3005A7E0B"
-            BuildableName = "In-Balanz.app"
+            BuildableName = "AdemInBalanz.app"
             BlueprintName = "AdemInBalanz"
             ReferencedContainer = "container:AdemInBalanz.xcodeproj">
          </BuildableReference>
