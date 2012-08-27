@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import "CommonVC.h"
+#import <MediaPlayer/MediaPlayer.h>
+#import <QuartzCore/QuartzCore.h>
 
 @interface VideoVC : CommonVC
 

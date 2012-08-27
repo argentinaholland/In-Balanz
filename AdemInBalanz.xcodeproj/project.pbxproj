@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7259729815EAC6F000FC3452 /* Audiofeed_test.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 7259729715EAC6F000FC3452 /* Audiofeed_test.MOV */; };
+		7259729E15EAC98F00FC3452 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7259729D15EAC98F00FC3452 /* MediaPlayer.framework */; };
+		725972A215EAD04400FC3452 /* IAPExercisesVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 725972A015EAD04400FC3452 /* IAPExercisesVC.m */; };
+		725972A315EAD04400FC3452 /* IAPExercisesVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 725972A115EAD04400FC3452 /* IAPExercisesVC.xib */; };
 		96258E5D15CFAFEF000A5331 /* QuestionnaireDoneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 96258E5B15CFAFEF000A5331 /* QuestionnaireDoneVC.m */; };
 		96258E5E15CFAFEF000A5331 /* QuestionnaireDoneVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96258E5C15CFAFEF000A5331 /* QuestionnaireDoneVC.xib */; };
 		96258E6115CFC277000A5331 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96258E6015CFC277000A5331 /* MapKit.framework */; };
@@ -68,6 +72,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7259729715EAC6F000FC3452 /* Audiofeed_test.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Audiofeed_test.MOV; sourceTree = "<group>"; };
+		7259729D15EAC98F00FC3452 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		7259729F15EAD04400FC3452 /* IAPExercisesVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IAPExercisesVC.h; sourceTree = "<group>"; };
+		725972A015EAD04400FC3452 /* IAPExercisesVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAPExercisesVC.m; sourceTree = "<group>"; };
+		725972A115EAD04400FC3452 /* IAPExercisesVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IAPExercisesVC.xib; sourceTree = "<group>"; };
 		96258E5A15CFAFEF000A5331 /* QuestionnaireDoneVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QuestionnaireDoneVC.h; path = ViewControllers/QuestionnaireDoneVC.h; sourceTree = "<group>"; };
 		96258E5B15CFAFEF000A5331 /* QuestionnaireDoneVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = QuestionnaireDoneVC.m; path = ViewControllers/QuestionnaireDoneVC.m; sourceTree = "<group>"; };
 		96258E5C15CFAFEF000A5331 /* QuestionnaireDoneVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = QuestionnaireDoneVC.xib; path = ViewControllers/QuestionnaireDoneVC.xib; sourceTree = "<group>"; };
@@ -147,6 +156,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7259729E15EAC98F00FC3452 /* MediaPlayer.framework in Frameworks */,
 				96258E6115CFC277000A5331 /* MapKit.framework in Frameworks */,
 				96C6AC5515CC77D4005A7E0B /* UIKit.framework in Frameworks */,
 				96C6AC5715CC77D4005A7E0B /* Foundation.framework in Frameworks */,
@@ -186,6 +196,9 @@
 				96258E6715CFD4B7000A5331 /* ExercisesDetailVC.h */,
 				96258E6815CFD4B7000A5331 /* ExercisesDetailVC.m */,
 				96258E6915CFD4B8000A5331 /* ExercisesDetailVC.xib */,
+				7259729F15EAD04400FC3452 /* IAPExercisesVC.h */,
+				725972A015EAD04400FC3452 /* IAPExercisesVC.m */,
+				725972A115EAD04400FC3452 /* IAPExercisesVC.xib */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -193,6 +206,7 @@
 		969E607915CC7BD60023888F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				7259729715EAC6F000FC3452 /* Audiofeed_test.MOV */,
 				965D8A7B15CCDA2200D517A6 /* button.normal.png */,
 				965D8A7C15CCDA2200D517A6 /* button.normal@2x.png */,
 				A7C5CE1015D3FBB4004C8881 /* shutterstock_70590799.jpg */,
@@ -250,6 +264,7 @@
 		96C6AC5315CC77D4005A7E0B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7259729D15EAC98F00FC3452 /* MediaPlayer.framework */,
 				96258E6015CFC277000A5331 /* MapKit.framework */,
 				96C6AC5415CC77D4005A7E0B /* UIKit.framework */,
 				96C6AC5615CC77D4005A7E0B /* Foundation.framework */,
@@ -376,6 +391,8 @@
 				A7C5CE1115D3FBB4004C8881 /* shutterstock_70590799.jpg in Resources */,
 				A7C5CE1415D3FBBF004C8881 /* shutterstock_77491009.jpg in Resources */,
 				A7C5CE1615D3FCE7004C8881 /* Zilverbutton.png in Resources */,
+				7259729815EAC6F000FC3452 /* Audiofeed_test.MOV in Resources */,
+				725972A315EAD04400FC3452 /* IAPExercisesVC.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,6 +415,7 @@
 				96258E5D15CFAFEF000A5331 /* QuestionnaireDoneVC.m in Sources */,
 				96258E6515CFC703000A5331 /* AboutUsDetailVC.m in Sources */,
 				96258E6A15CFD4B8000A5331 /* ExercisesDetailVC.m in Sources */,
+				725972A215EAD04400FC3452 /* IAPExercisesVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,10 +485,14 @@
 		96C6AC6F15CC77D4005A7E0B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nicolas Vidal (QGBZF5U3ME)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Nicolas Vidal (QGBZF5U3ME)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "In-Balanz/AdemInBalanz-Prefix.pch";
 				INFOPLIST_FILE = "In-Balanz/AdemInBalanz-Info.plist";
 				PRODUCT_NAME = AdemInBalanz;
+				PROVISIONING_PROFILE = "DD2B77D1-E96F-4D07-BA5F-E277A90880A8";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DD2B77D1-E96F-4D07-BA5F-E277A90880A8";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -478,10 +500,14 @@
 		96C6AC7015CC77D4005A7E0B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nicolas Vidal (QGBZF5U3ME)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Nicolas Vidal (QGBZF5U3ME)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "In-Balanz/AdemInBalanz-Prefix.pch";
 				INFOPLIST_FILE = "In-Balanz/AdemInBalanz-Info.plist";
 				PRODUCT_NAME = AdemInBalanz;
+				PROVISIONING_PROFILE = "DD2B77D1-E96F-4D07-BA5F-E277A90880A8";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DD2B77D1-E96F-4D07-BA5F-E277A90880A8";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

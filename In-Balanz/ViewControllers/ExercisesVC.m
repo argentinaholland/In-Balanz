@@ -8,6 +8,7 @@
 
 #import "ExercisesVC.h"
 #import "ExercisesDetailVC.h"
+#import "IAPExercisesVC.h"
 
 @interface ExercisesVC ()
 
@@ -34,7 +35,7 @@
 }
 
 - (IBAction)buySelected {
-    
+    [self pushVC:[IAPExercisesVC class]];
 }
 
 @end

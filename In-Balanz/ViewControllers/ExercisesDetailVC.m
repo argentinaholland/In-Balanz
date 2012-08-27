@@ -7,7 +7,6 @@
 //
 
 #import "ExercisesDetailVC.h"
-
 #import "QuartzCore/QuartzCore.h"
 
 @interface ExercisesDetailVC () {
